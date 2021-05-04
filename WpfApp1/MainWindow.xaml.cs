@@ -22,6 +22,7 @@ namespace WpfApp1
     {
 
         string testStr = "test";
+        string tStr = "test2";
 
         public MainWindow()
         {
